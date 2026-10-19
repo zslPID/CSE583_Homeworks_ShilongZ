@@ -1,0 +1,2 @@
+The bash code has been writen during class, using the command like mkdir to make a directory, and curl to copy zip from url, and using unzip to unzip files.
+Having a bit trouble when submitting the HW to github, set up the repo in github went smooth, but when doing git push it ask for password, set up the API but did it wrong with the fine_grained not classic so having problem submitting it. So used ai to help me to debug the problem and find out should be using classic and sharing repo.
